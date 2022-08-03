@@ -1,0 +1,32 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#cloud1 {
+    left: 20%;
+    position: absolute;
+    top: 1%;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+#cloud2 {
+    left: 30%;
+    position: absolute;
+    top: 3%;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+#cloud3 {
+    left: 40%;
+    position: absolute;
+    top: 3%;
+    max-width: 120px;
+    max-height: 120px;
+    fill: #97c2e2;
+}
+
